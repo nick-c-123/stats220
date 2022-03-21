@@ -1,5 +1,5 @@
 # Hello
-Welcome to my Stats 220 repo for my assignment/meme
+Hello, my name is Nick and this is my Stats 220 repo for my assignment/meme
 
 ## About the meme
 This meme was created using R code and the [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package
