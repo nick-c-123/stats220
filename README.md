@@ -6,4 +6,4 @@ Our task for this assignment was to make a meme using **R code**
 
 The link for my STATS 220 repo can be found [here](https://github.com/nick-c-123/stats220)
 
-print("hello")
+This will be the main platform for posting any R and R markdown projects I have, so feel free to follow
